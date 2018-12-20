@@ -1,0 +1,8 @@
+let csvString = `id	tactic_id	creative_library_id	creative_asset_id	active	deleted	click_tracker_url	click_tracker_encoding_level	impression_pixel_json	js_pixel_json	clickthrough_pixel_json	viewability_pixel_json	last_modified
+12187	333304	11600	28374	1	0	-	0	["https:\/\/ad.doubleclick.net\/ddm\/ad\/N7676.791086DOUBLECLICKTECH.COM\/B9352239.127304136;sz=1x1;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?","https:\/\/secure-gl.imrworldwide.com\/cgi-bin\/m?ci=nlsnci304&am=3&at=view&rt=banner&st=image&ca=nlsn32514&cr=crtve&pc=dcbm_plc0001&ce=dcbm&r=[timestamp]"]	[]	[]	NULL	2/25/16 21:54
+28075	337773	12325	31855	1	0	https://ad.doubleclick.net/ddm/trackclk/N2724.1852769TRIPLELIFT.COM/B9457112.128485014;dc_trk_aid=301461699;dc_trk_cid=66292004;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?	0	["https:\/\/ad.doubleclick.net\/ddm\/trackimp\/N2724.1852769TRIPLELIFT.COM\/B9457112.128485014;dc_trk_aid=301461699;dc_trk_cid=66292004;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?","http:\/\/tags.bluekai.com\/site\/32051?limit=1"]	[]	["http:\/\/tags.bluekai.com\/site\/32055?limit=1","http:\/\/eb2.3lift.com\/px?add=69928"]	[]	4/29/16 16:21
+12587	333514	11798	28995	0	0	NULL	0	[]	[]	[]	[]	1/23/16 21:56
+19397	334448	12487	31962	1	0	NULL	0	[]	[]	[]	[]	2/10/16 23:13
+23905	336385	13190	34099	1	0	https://ad.atdmt.com/c/go;p=11142202536676;a=11142202567402;ev.a=1;idfa=;idfa_lat=;aaid=;aaid_lat=;cache=?href=	0	["https:\/\/ad.atdmt.com\/i\/img;p=11142202536676;a=11142202567402;idfa=;idfa_lat=;aaid=;aaid_lat=;cache="]	[]	[]	[]	3/14/16 23:13`
+
+export default csvString;
